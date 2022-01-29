@@ -1,2 +1,2 @@
 # IERC20
-Implementation of ERC20 Token Standard
+Interface of the ERC20 standard as defined in the EIP.
